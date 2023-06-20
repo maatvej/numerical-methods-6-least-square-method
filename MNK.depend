@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1669992763 source:c:\users\michael\desktop\programs\mnk\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<locale>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<cmath>
+	<ctime>
+
+1669992801 source:c:\users\musat\onedrive\ПМ-ПУ\2022-2023. 3 курс\Численные методы\задание 3\mnk\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<locale>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<cmath>
+	<ctime>
+
